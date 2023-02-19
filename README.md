@@ -34,38 +34,6 @@ Link: https://bit.ly/pandasml
 9) Geopandas: Work with Geospatial data in Pandas.
 Link: https://bit.ly/geo-pd
 
-##  DP, Problem List
-Linear DP
-Link: https://lnkd.in/dNJFUBcW
-
- DP on Strings 
-Link: https://lnkd.in/dpetSA_s
-
- Knapsack Dp
-Link: https://lnkd.in/d5Dc4j4N
-
- DP with Tree & Graph 
-Link: https://lnkd.in/dbdAW_x3
-
- Dp on math problems
-Link : https://lnkd.in/d_-jKvmM
-
- Dp with bits manipulation
-Link:https://lnkd.in/dfQCrQim
-
- Grid-based DP 
-Link:https://lnkd.in/d5DJc6Cy
-
- Multidimensional DP 
-Link: https://lnkd.in/dGgXsjK2
-
- Digit Problem DP 
-Link: https://lnkd.in/dW5RKihx
-
- Classical DP problem 
-Link : htps://lnkd.in/d_iVkeUV
-
-
 10) DuckDB: Run SQL queries on dataframes.
 Link: https://bit.ly/pd-sql
 
@@ -116,3 +84,35 @@ Link: https://bit.ly/py-dora
 
 26) Pandapy: The speed of NumPy combined with Pandas' elegance.
 Link: https://bit.ly/pandapy
+
+##  DP, Problem List
+Linear DP
+Link: https://lnkd.in/dNJFUBcW
+
+ DP on Strings 
+Link: https://lnkd.in/dpetSA_s
+
+ Knapsack Dp
+Link: https://lnkd.in/d5Dc4j4N
+
+ DP with Tree & Graph 
+Link: https://lnkd.in/dbdAW_x3
+
+ Dp on math problems
+Link : https://lnkd.in/d_-jKvmM
+
+ Dp with bits manipulation
+Link:https://lnkd.in/dfQCrQim
+
+ Grid-based DP 
+Link:https://lnkd.in/d5DJc6Cy
+
+ Multidimensional DP 
+Link: https://lnkd.in/dGgXsjK2
+
+ Digit Problem DP 
+Link: https://lnkd.in/dW5RKihx
+
+ Classical DP problem 
+Link : htps://lnkd.in/d_iVkeUV
+
