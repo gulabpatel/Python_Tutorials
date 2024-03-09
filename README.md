@@ -114,5 +114,34 @@ Link: https://lnkd.in/dGgXsjK2
 Link: https://lnkd.in/dW5RKihx
 
  Classical DP problem 
-Link : htps://lnkd.in/d_iVkeUV
+Link: htps://lnkd.in/d_iVkeUV
 
+
+## 9 Kaggle Notebooks that will help you to write Efficient Python Code:
+
+✅ Writing Python Efficient Code: Measuring Python Code Efficiency
+https://lnkd.in/dQSUpQsQ
+
+✅ Python Code Optimization for Data Scientists
+https://lnkd.in/dGS7DWbX
+
+✅ How To Eliminate Loops From Your Python Code
+https://lnkd.in/dV5xDhyV
+
+✅ Stop Looping Through Pandas DataFrames
+https://lnkd.in/dsf7zWFs
+
+✅ How To Use .groupby() Effectively As A Data Scient
+https://lnkd.in/d8UX2zr6
+
+✅ Selecting & Replacing Values In Pandas Effectively
+https://lnkd.in/dcw6c36z
+
+✅ Make Your Pandas Code 1000 Times Faster
+https://lnkd.in/dvawCSGv
+
+✅ 20 Pandas Functions for 80% of Data Science Tasks
+https://lnkd.in/dvC4pJ9E
+
+✅ Top 10 Pandas Mistakes to Avoid
+https://lnkd.in/dvPZdis6
